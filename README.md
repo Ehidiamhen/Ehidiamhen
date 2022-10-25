@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://05c9b1eb-b6d4-4e37-b89f-7cafc65f0ccb.id.repl.co/Images/hero.jpg" width="100" height="100"/>
-</div>
+  <img src="https://05c9b1eb-b6d4-4e37-b89f-7cafc65f0ccb.id.repl.co/Images/hero.jpg" width="300" height="300"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ehidiamhen/">
@@ -14,9 +13,10 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Ehidiamhen&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Ehidiamhen&style=flat-square&color=blue" alt=""/>
 
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
