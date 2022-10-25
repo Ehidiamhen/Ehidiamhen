@@ -37,7 +37,7 @@ I am a Frontend Developer from Nigeria
 
 - :zap: In my free time, I listen to music and read tech articles.
 
- - :mailbox:How to reach me: [![Linkedin Badge]()](https://www.linkedin.com/in/ehidiamhen/)
+ - :mailbox:Contact me: [ehidiamhenaigbiluese@gmail.com](mailto:ehidiamhenaigbiluese@gmail.com)
 
 ---
 
