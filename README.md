@@ -31,7 +31,7 @@
 
 I am a Frontend Developer from Nigeria
 
-- :telescope: I’m a Software Engineer and contributing to the frontend for building web applications.
+- :telescope: I’m a Software Engineer contributing to the frontend and building web applications.
 
 - :chains: Exploring Blockchain Technology.
 
